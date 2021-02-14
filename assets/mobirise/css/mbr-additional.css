@@ -1023,74 +1023,38 @@ a {
     left: -1rem;
   }
 }
-.cid-soZX2bIQVB {
-  padding-top: 90px;
-  padding-bottom: 75px;
+.cid-sp1352YNh0 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
-  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
-.cid-soZX2bIQVB .mbr-section-title {
-  color: #444444;
+.cid-sp1352YNh0 .mbr-iconfont {
+  font-size: 1.4rem !important;
+  font-family: 'Moririse2' !important;
+  color: #6592e6;
+  margin-left: 1rem;
 }
-.cid-soZX2bIQVB .mbr-section-subtitle {
-  color: #8d97ad;
-}
-.cid-soZX2bIQVB .mbr-text {
-  color: #8d97ad;
-}
-.cid-soZX2bIQVB .nav {
+.cid-sp1352YNh0 .panel-group {
   border: none;
 }
-.cid-soZX2bIQVB .nav-tabs {
-  display: table;
-  width: 100%;
-}
-.cid-soZX2bIQVB .nav-tabs .nav-item {
-  display: table-cell;
-}
-.cid-soZX2bIQVB .card-img {
-  overflow: hidden;
-  border-radius: .25rem;
-  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.3);
-  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.3);
-}
-.cid-soZX2bIQVB .tab-content {
-  margin-top: 3rem;
-}
-.cid-soZX2bIQVB .nav-tabs .nav-link {
+.cid-sp1352YNh0 .panel-title {
   display: flex;
-  color: #ffffff;
-  box-sizing: border-box;
-  font-style: normal;
-  background: #6592e6;
-  font-weight: 500;
-  padding: 1rem 1rem;
-  border-right: 1px solid #dee2e6;
-  border-top: 1px solid #dee2e6;
-  border-left: 1px solid #dee2e6;
-  margin: 0px;
-  border-radius: 0px !important;
-  border-bottom: 1px solid #dee2e6;
-  transition: all .3s;
+  align-items: center;
+  justify-content: space-between;
 }
-.cid-soZX2bIQVB .nav-tabs .nav-link:hover {
-  background-color: #ffffff;
-  color: #000000;
+.cid-sp1352YNh0 .panel-body,
+.cid-sp1352YNh0 .card-header {
+  padding: 1rem 0;
 }
-.cid-soZX2bIQVB .nav-tabs .nav-link.active {
-  font-weight: 500;
-  color: #000000;
-  font-style: normal;
-  background: #ffffff;
-  border-bottom: none;
+.cid-sp1352YNh0 .panel-title-edit {
+  color: #bbbbbb;
 }
-.cid-soZX2bIQVB .nav-tabs .nav-link span {
-  margin-right: 0.5rem;
+.cid-sp1352YNh0 .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
 }
-@media (max-width: 767px) {
-  .cid-soZX2bIQVB .nav-item {
-    display: table-row !important;
-  }
+.cid-sp1352YNh0 H3 {
+  color: #bbbbbb;
 }
 .cid-s48vaXqeL6 {
   padding-top: 2rem;
@@ -1099,6 +1063,7 @@ a {
 }
 .cid-s48vaXqeL6 .mbr-section-title {
   text-align: center;
+  color: #353535;
 }
 .cid-s48vaXqeL6 .mbr-section-subtitle {
   text-align: left;
