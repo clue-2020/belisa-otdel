@@ -683,10 +683,22 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sp06kVfi46 {
+.cid-spovqYpTot {
   padding-top: 225px;
-  padding-bottom: 225px;
-  background-image: url("../../../assets/images/background1.jpg");
+  padding-bottom: 105px;
+}
+.cid-spovqYpTot .btn {
+  margin: 0.2rem !important;
+}
+.cid-spovqYpTot .row {
+  justify-content: flex-end;
+}
+.cid-spovqYpTot .mbr-text,
+.cid-spovqYpTot .mbr-section-btn {
+  color: #cccccc;
+}
+.cid-spovqYpTot H3 {
+  color: #cccccc;
 }
 .cid-soZVNYOGdd .dropdown-item:before {
   font-family: MobiriseIcons !important;
